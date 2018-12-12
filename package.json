@@ -1,0 +1,19 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "react practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymeramsay/indecisionapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymeramsay/indecisionapp/issues"
+  },
+  "homepage": "https://github.com/jaymeramsay/indecisionapp#readme"
+}
