@@ -1,6 +1,6 @@
 console.log('App is running!')
 
-let app = {
+const app = {
     title: 'Indecision App',
     subtitle: 'Sometimes you need something else to decide for you',
     options: ['one', 'two']
@@ -17,7 +17,7 @@ const template = (
     </div>
 );
 
-let user = {
+const user = {
     name: 'Jeannie',
     subtitle: 'The story of a complex person',
     age: 34,
