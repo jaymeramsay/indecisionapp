@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import validator from 'validator';
+import IndecisionApp from './components/IndecisionApp';
 
-const template = React.createElement('p', {}, 'testing');
-
-ReactDOM.render(template, document.getElementById('app'));
+ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
 
 
